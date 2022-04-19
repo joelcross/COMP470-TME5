@@ -1,0 +1,8 @@
+2022-03-29T23:47:51.129264Z 0 [System] [MY-010116] [Server] /usr/local/mysql/bin/mysqld (mysqld 8.0.28) starting as process 5513
+2022-03-29T23:47:51.135641Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /usr/local/mysql/data/ is case insensitive
+2022-03-29T23:47:51.291073Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-03-29T23:47:51.518206Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-03-29T23:47:51.753731Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-03-29T23:47:51.753819Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-03-29T23:47:51.792191Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2022-03-29T23:47:51.792446Z 0 [System] [MY-010931] [Server] /usr/local/mysql/bin/mysqld: ready for connections. Version: '8.0.28'  socket: '/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.

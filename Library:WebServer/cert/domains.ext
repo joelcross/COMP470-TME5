@@ -1,0 +1,10 @@
+authorityKeyIdentifier=keyid,issuer
+basicConstraints=CA:FALSE
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
+subjectAltName = @alt_names
+[alt_names]
+DNS.1 = localhost
+DNS.2 = joelspetadoption.com
+DNS.3 = www.joelspetadoption.com
+DNS.4 = staff.joelspetadoption.com
+DNS.5 = www.staff.joelspetadoption.com

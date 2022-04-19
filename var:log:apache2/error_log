@@ -1,0 +1,417 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 24 13:20:17.337741 2022] [mpm_prefork:notice] [pid 41923] AH00163: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Thu Mar 24 13:20:17.338411 2022] [core:notice] [pid 41923] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Mar 24 13:30:29.067850 2022] [mpm_prefork:notice] [pid 41923] AH00169: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+No log handling enabled - using stderr logging
+Created directory: /var/db/net-snmp
+Created directory: /var/db/net-snmp/mib_indexes
+[Thu Mar 24 13:30:30.293802 2022] [mpm_prefork:notice] [pid 41991] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) configured -- resuming normal operations
+[Thu Mar 24 13:30:30.293942 2022] [core:notice] [pid 41991] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Mar 24 13:45:21.802523 2022] [mpm_prefork:notice] [pid 41991] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host2.example.com] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 24 13:45:34.620290 2022] [mpm_prefork:notice] [pid 42087] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Thu Mar 24 13:45:34.620404 2022] [core:notice] [pid 42087] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Mar 24 14:17:42.020648 2022] [mpm_prefork:notice] [pid 42087] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host2.example.com] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 24 14:17:47.337231 2022] [mpm_prefork:notice] [pid 42338] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Thu Mar 24 14:17:47.337354 2022] [core:notice] [pid 42338] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Mar 24 15:26:29.369818 2022] [mpm_prefork:notice] [pid 42338] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host2.example.com] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 24 15:26:31.897597 2022] [mpm_prefork:notice] [pid 42555] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Thu Mar 24 15:26:31.897708 2022] [core:notice] [pid 42555] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Mar 24 17:22:17.512512 2022] [mpm_prefork:notice] [pid 42555] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host2.example.com] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 24 17:22:20.523148 2022] [mpm_prefork:notice] [pid 46761] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Thu Mar 24 17:22:20.523278 2022] [core:notice] [pid 46761] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Mar 24 17:29:53.150089 2022] [mpm_prefork:notice] [pid 46761] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [/usr/docs/dummy-host2.example.com] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 24 17:30:00.424232 2022] [mpm_prefork:notice] [pid 46848] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Thu Mar 24 17:30:00.424355 2022] [core:notice] [pid 46848] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Mar 25 20:00:01.549267 2022] [mpm_prefork:notice] [pid 46848] AH00169: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 25 20:00:04.413791 2022] [mpm_prefork:notice] [pid 72613] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Fri Mar 25 20:00:04.413898 2022] [core:notice] [pid 72613] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 14:33:11.170602 2022] [mpm_prefork:notice] [pid 72613] AH00169: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 14:33:14.484553 2022] [mpm_prefork:notice] [pid 85815] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 14:33:14.484711 2022] [core:notice] [pid 85815] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 14:41:19.359435 2022] [authz_core:error] [pid 85832] [client ::1:56436] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 14:42:18.197197 2022] [authz_core:error] [pid 85831] [client ::1:56440] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 14:42:20.870635 2022] [authz_core:error] [pid 85831] [client ::1:56440] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 14:42:23.322279 2022] [authz_core:error] [pid 85831] [client ::1:56440] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 14:42:32.873124 2022] [authz_core:error] [pid 85830] [client ::1:56441] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 14:55:46.807026 2022] [authz_core:error] [pid 85828] [client ::1:56474] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 14:55:50.344152 2022] [authz_core:error] [pid 85828] [client ::1:56474] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 14:55:54.755217 2022] [authz_core:error] [pid 85828] [client ::1:56474] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:01:39.164904 2022] [authz_core:error] [pid 85830] [client ::1:56503] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:01:41.745113 2022] [authz_core:error] [pid 85830] [client ::1:56503] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 15:01:42.861967 2022] [authz_core:error] [pid 85830] [client ::1:56503] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:01:45.651906 2022] [authz_core:error] [pid 85830] [client ::1:56503] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:08.074647 2022] [mpm_prefork:notice] [pid 85815] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Users/joelcross/Sites/test] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 15:02:09.438311 2022] [mpm_prefork:notice] [pid 86112] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 15:02:09.438468 2022] [core:notice] [pid 86112] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 15:02:15.144544 2022] [authz_core:error] [pid 86116] [client ::1:56505] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:17.755278 2022] [authz_core:error] [pid 86116] [client ::1:56505] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 15:02:20.664154 2022] [authz_core:error] [pid 86116] [client ::1:56505] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:40.145153 2022] [authz_core:error] [pid 86121] [client ::1:56507] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:42.944396 2022] [authz_core:error] [pid 86121] [client ::1:56507] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Mon Apr 11 15:02:45.909871 2022] [authz_core:error] [pid 86121] [client ::1:56507] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:48.514078 2022] [authz_core:error] [pid 86121] [client ::1:56507] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:49.516386 2022] [authz_core:error] [pid 86121] [client ::1:56507] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:53.513004 2022] [mpm_prefork:notice] [pid 86112] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Users/joelcross/Sites/test] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 15:02:54.204679 2022] [mpm_prefork:notice] [pid 86136] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 15:02:54.204814 2022] [core:notice] [pid 86136] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 15:02:56.749657 2022] [authz_core:error] [pid 86140] [client ::1:56509] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Mon Apr 11 15:02:58.158739 2022] [authz_core:error] [pid 86140] [client ::1:56509] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:02:59.330522 2022] [authz_core:error] [pid 86140] [client ::1:56509] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:03:00.970683 2022] [authz_core:error] [pid 86140] [client ::1:56509] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 15:03:01.897518 2022] [authz_core:error] [pid 86140] [client ::1:56509] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:30:33.631528 2022] [mpm_prefork:notice] [pid 86136] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Users/joelcross/Sites/test] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 16:30:36.406140 2022] [mpm_prefork:notice] [pid 86419] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 16:30:36.406823 2022] [core:notice] [pid 86419] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 16:30:40.761473 2022] [authz_core:error] [pid 86432] [client ::1:56625] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 16:30:46.471281 2022] [authz_core:error] [pid 86433] [client ::1:56626] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:30:48.256399 2022] [authz_core:error] [pid 86433] [client ::1:56626] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:30:50.163560 2022] [authz_core:error] [pid 86433] [client ::1:56626] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:30:51.260768 2022] [authz_core:error] [pid 86433] [client ::1:56626] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:31:22.671102 2022] [mpm_prefork:notice] [pid 86419] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Users/joelcross/Sites/test] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 16:31:23.276309 2022] [mpm_prefork:notice] [pid 86448] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 16:31:23.276444 2022] [core:notice] [pid 86448] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 16:31:26.820497 2022] [authz_core:error] [pid 86452] [client ::1:56630] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 16:31:32.863929 2022] [authz_core:error] [pid 86454] [client ::1:56631] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:31:34.485393 2022] [authz_core:error] [pid 86454] [client ::1:56631] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:31:36.049599 2022] [authz_core:error] [pid 86454] [client ::1:56631] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:31:38.762883 2022] [authz_core:error] [pid 86454] [client ::1:56631] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:36:02.232224 2022] [authz_core:error] [pid 86455] [client ::1:56675] AH01630: client denied by server configuration: /Library/WebServer/Documents/phpmyadmin/
+[Mon Apr 11 16:36:03.871079 2022] [authz_core:error] [pid 86455] [client ::1:56675] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/phpmyadmin/
+[Mon Apr 11 16:36:16.718412 2022] [authz_core:error] [pid 86452] [client ::1:56676] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/~joelcross/phpmyadmin/
+[Mon Apr 11 16:36:18.743074 2022] [authz_core:error] [pid 86452] [client ::1:56676] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/phpmyadmin/
+[Mon Apr 11 16:36:21.656677 2022] [authz_core:error] [pid 86452] [client ::1:56676] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/adopt/
+[Mon Apr 11 16:36:24.590713 2022] [authz_core:error] [pid 86452] [client ::1:56676] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 16:36:28.351182 2022] [authz_core:error] [pid 86452] [client ::1:56676] AH01630: client denied by server configuration: /Library/WebServer/Documents/phpmyadmin/
+[Mon Apr 11 16:36:28.662568 2022] [authz_core:error] [pid 86452] [client ::1:56676] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/phpmyadmin/
+[Mon Apr 11 16:37:32.689125 2022] [authz_core:error] [pid 86456] [client ::1:56678] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Mon Apr 11 16:37:40.907901 2022] [authz_core:error] [pid 86455] [client ::1:56679] AH01630: client denied by server configuration: /Library/WebServer/Documents/phpMyAdmin/index.php
+[Mon Apr 11 16:37:41.254303 2022] [authz_core:error] [pid 86455] [client ::1:56679] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/phpMyAdmin/index.php?route=/
+[Mon Apr 11 16:40:08.630863 2022] [mpm_prefork:notice] [pid 86448] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Users/joelcross/Sites/test] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 16:40:10.401218 2022] [mpm_prefork:notice] [pid 86635] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 16:40:10.401331 2022] [core:notice] [pid 86635] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 16:40:34.747468 2022] [authz_core:error] [pid 86645] [client ::1:56691] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/~joelcross/
+[Mon Apr 11 16:40:38.723027 2022] [authz_core:error] [pid 86645] [client ::1:56691] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Mon Apr 11 16:40:41.812088 2022] [authz_core:error] [pid 86645] [client ::1:56691] AH01630: client denied by server configuration: /Library/WebServer/Documents/honme
+[Mon Apr 11 16:40:42.377564 2022] [authz_core:error] [pid 86645] [client ::1:56691] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/honme
+[Mon Apr 11 16:40:44.818983 2022] [authz_core:error] [pid 86645] [client ::1:56691] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 17:04:52.917714 2022] [mpm_prefork:notice] [pid 86635] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Users/joelcross/Sites/test] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 17:04:54.846850 2022] [mpm_prefork:notice] [pid 86834] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 17:04:54.847037 2022] [core:notice] [pid 86834] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 17:05:03.389703 2022] [authz_core:error] [pid 86839] [client ::1:56821] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/~joelcross/
+[Mon Apr 11 17:05:05.448425 2022] [authz_core:error] [pid 86839] [client ::1:56821] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Mon Apr 11 17:05:20.072722 2022] [authz_core:error] [pid 86843] [client ::1:56824] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 17:05:23.856922 2022] [authz_core:error] [pid 86843] [client ::1:56824] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:07:12.921175 2022] [authz_core:error] [pid 86839] [client ::1:56845] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:07:41.470196 2022] [authz_core:error] [pid 86847] [client ::1:56847] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:08:01.887740 2022] [authz_core:error] [pid 86840] [client ::1:56850] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:09:20.422887 2022] [authz_core:error] [pid 86839] [client ::1:56854] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:09:49.218877 2022] [mpm_prefork:notice] [pid 86834] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Users/joelcross/Sites/test] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 17:09:50.127073 2022] [mpm_prefork:notice] [pid 86898] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 17:09:50.127248 2022] [core:notice] [pid 86898] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 17:09:54.174203 2022] [authz_core:error] [pid 86902] [client ::1:56858] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:09:57.226232 2022] [authz_core:error] [pid 86902] [client ::1:56858] AH01630: client denied by server configuration: /Library/WebServer/Documents/r
+[Mon Apr 11 17:09:57.591081 2022] [authz_core:error] [pid 86902] [client ::1:56858] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/r
+[Mon Apr 11 17:09:59.402457 2022] [authz_core:error] [pid 86902] [client ::1:56858] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Mon Apr 11 17:10:02.539403 2022] [authz_core:error] [pid 86902] [client ::1:56858] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 17:10:04.822274 2022] [authz_core:error] [pid 86902] [client ::1:56858] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:10:59.145516 2022] [auth_basic:error] [pid 86905] [client ::1:56869] AH01618: user log not found: /records/
+[Mon Apr 11 17:11:06.786341 2022] [authz_core:error] [pid 86906] [client ::1:56870] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 17:11:19.489548 2022] [auth_basic:error] [pid 86902] [client ::1:56871] AH01618: user joel not found: /records/
+[Mon Apr 11 17:11:25.597435 2022] [auth_basic:error] [pid 86903] [client ::1:56872] AH01617: user staff: authentication failure for "/records/": Password Mismatch
+[Mon Apr 11 17:11:29.268810 2022] [authz_core:error] [pid 86903] [client ::1:56872] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/records/
+[Mon Apr 11 17:11:35.827015 2022] [authz_core:error] [pid 86902] [client ::1:56873] AH01630: client denied by server configuration: /Library/WebServer/Documents/phpmyadmin/
+[Mon Apr 11 17:11:36.065270 2022] [authz_core:error] [pid 86902] [client ::1:56873] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/phpmyadmin/
+[Mon Apr 11 17:11:53.755717 2022] [authz_core:error] [pid 86923] [client ::1:56877] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/home/
+[Mon Apr 11 20:25:18.210273 2022] [mpm_prefork:notice] [pid 86898] AH00169: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 20:25:24.114627 2022] [mpm_prefork:notice] [pid 93383] AH00163: Apache/2.4.46 (Unix) PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 11 20:25:24.196517 2022] [core:notice] [pid 93383] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 11 21:28:48.116226 2022] [mpm_prefork:notice] [pid 93383] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 14:02:31.886067 2022] [ssl:warn] [pid 300] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 14:02:31.928577 2022] [ssl:warn] [pid 300] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 14:02:32.033218 2022] [mpm_prefork:notice] [pid 300] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 14:02:32.033318 2022] [core:notice] [pid 300] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 14:04:57.954774 2022] [authz_core:error] [pid 309] [client 127.0.0.1:53035] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 14:04:58.939090 2022] [authz_core:error] [pid 309] [client 127.0.0.1:53035] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/
+[Tue Apr 12 15:31:53.070434 2022] [mpm_prefork:notice] [pid 300] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 15:31:55.435461 2022] [ssl:warn] [pid 1013] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 15:31:55.482863 2022] [ssl:warn] [pid 1013] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 15:31:55.980939 2022] [mpm_prefork:notice] [pid 1013] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 15:31:55.981072 2022] [core:notice] [pid 1013] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 15:32:06.888861 2022] [authz_core:error] [pid 1028] [client ::1:60927] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 15:32:08.233606 2022] [authz_core:error] [pid 1028] [client ::1:60927] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Tue Apr 12 15:34:18.236292 2022] [mpm_prefork:notice] [pid 1013] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 15:34:18.919320 2022] [ssl:warn] [pid 1069] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Joels-MacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 15:34:18.963643 2022] [ssl:warn] [pid 1069] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 15:34:19.137716 2022] [mpm_prefork:notice] [pid 1069] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 15:34:19.137845 2022] [core:notice] [pid 1069] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 15:34:23.626398 2022] [authz_core:error] [pid 1073] [client 127.0.0.1:61483] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 15:34:24.894873 2022] [authz_core:error] [pid 1073] [client 127.0.0.1:61483] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://127.0.0.1/
+[Tue Apr 12 16:30:59.475410 2022] [mpm_prefork:notice] [pid 1069] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 16:31:00.535553 2022] [ssl:warn] [pid 1736] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 16:31:00.572529 2022] [ssl:warn] [pid 1736] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 16:31:00.754396 2022] [mpm_prefork:notice] [pid 1736] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 16:31:00.754513 2022] [core:notice] [pid 1736] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 16:32:56.123418 2022] [mpm_prefork:notice] [pid 1736] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 16:32:57.440950 2022] [ssl:warn] [pid 1780] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 16:32:57.474703 2022] [ssl:warn] [pid 1780] AH01909: www.joelspetadoption.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 16:32:57.604637 2022] [mpm_prefork:notice] [pid 1780] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 16:32:57.604770 2022] [core:notice] [pid 1780] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 16:33:01.526900 2022] [authz_core:error] [pid 1793] [client ::1:57927] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 16:33:02.609493 2022] [authz_core:error] [pid 1793] [client ::1:57927] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Tue Apr 12 16:45:45.539720 2022] [mpm_prefork:notice] [pid 1780] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 16:47:49.897128 2022] [mpm_prefork:notice] [pid 2082] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 16:47:49.897722 2022] [core:notice] [pid 2082] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 16:47:55.228707 2022] [authz_core:error] [pid 2086] [client 127.0.0.1:61626] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 16:47:57.614495 2022] [authz_core:error] [pid 2086] [client 127.0.0.1:61626] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/
+[Tue Apr 12 16:51:48.018669 2022] [authz_core:error] [pid 2086] [client 127.0.0.1:62567] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 16:51:50.260708 2022] [authz_core:error] [pid 2086] [client 127.0.0.1:62567] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/
+[Tue Apr 12 16:55:03.105709 2022] [authz_core:error] [pid 2092] [client ::1:62719] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 16:55:04.567323 2022] [authz_core:error] [pid 2092] [client ::1:62719] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Tue Apr 12 17:01:37.379515 2022] [authz_core:error] [pid 2168] [client 127.0.0.1:62842] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 17:01:39.186984 2022] [authz_core:error] [pid 2168] [client 127.0.0.1:62842] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.staff.joelspetadoption.com/
+[Tue Apr 12 20:23:18.677332 2022] [mpm_prefork:notice] [pid 2082] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 20:23:21.433032 2022] [mpm_prefork:notice] [pid 3015] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 20:23:21.433157 2022] [core:notice] [pid 3015] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 20:31:47.066295 2022] [authz_core:error] [pid 3033] [client 127.0.0.1:63356] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 20:31:49.287501 2022] [authz_core:error] [pid 3033] [client 127.0.0.1:63356] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.staff.joelspetadoption.com/
+[Tue Apr 12 20:32:43.699527 2022] [authz_core:error] [pid 3028] [client 127.0.0.1:63365] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 20:32:46.419974 2022] [authz_core:error] [pid 3028] [client 127.0.0.1:63365] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/
+[Tue Apr 12 20:34:11.000098 2022] [mpm_prefork:notice] [pid 3015] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 20:34:12.977678 2022] [mpm_prefork:notice] [pid 3434] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 20:34:12.977878 2022] [core:notice] [pid 3434] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 20:34:27.383079 2022] [authz_core:error] [pid 3438] [client 127.0.0.1:63421] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 20:34:28.589987 2022] [authz_core:error] [pid 3438] [client 127.0.0.1:63421] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/
+[Tue Apr 12 20:35:54.750964 2022] [mpm_prefork:notice] [pid 3434] AH00169: caught SIGTERM, shutting down
+[Tue Apr 12 20:35:55.501977 2022] [mpm_prefork:notice] [pid 3480] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 12 20:35:55.502120 2022] [core:notice] [pid 3480] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 12 20:56:07.372720 2022] [authz_core:error] [pid 3484] [client 127.0.0.1:63570] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 12 20:56:16.982618 2022] [authz_core:error] [pid 3490] [client 127.0.0.1:63574] AH01630: client denied by server configuration: /Library/WebServer/Documents/phpinfo
+[Tue Apr 12 20:56:18.271264 2022] [authz_core:error] [pid 3490] [client 127.0.0.1:63574] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/phpinfo/
+[Sat Apr 16 12:56:22.722592 2022] [authz_core:error] [pid 3486] [client 127.0.0.1:57251] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 12:56:24.183522 2022] [authz_core:error] [pid 3486] [client 127.0.0.1:57251] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/
+[Sat Apr 16 13:16:37.784516 2022] [authz_core:error] [pid 3489] [client 127.0.0.1:57508] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 13:16:38.893050 2022] [authz_core:error] [pid 3489] [client 127.0.0.1:57508] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.staff.joelspetadoption.com/
+[Sat Apr 16 13:42:10.729009 2022] [mpm_prefork:notice] [pid 3480] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 13:42:12.959843 2022] [mpm_prefork:notice] [pid 47058] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 13:42:12.959975 2022] [core:notice] [pid 47058] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 13:47:00.612080 2022] [authz_core:error] [pid 47071] [client ::1:57690] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 13:47:03.465030 2022] [authz_core:error] [pid 47071] [client ::1:57690] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 13:47:04.641153 2022] [authz_core:error] [pid 47071] [client ::1:57690] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 13:47:15.118263 2022] [authz_core:error] [pid 47095] [client ::1:57691] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 13:47:16.060646 2022] [authz_core:error] [pid 47095] [client ::1:57691] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 13:51:26.331956 2022] [authz_core:error] [pid 47106] [client ::1:57728] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 13:51:28.259185 2022] [authz_core:error] [pid 47106] [client ::1:57728] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 13:51:40.801259 2022] [authz_core:error] [pid 47098] [client ::1:57729] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 13:52:33.344450 2022] [authz_core:error] [pid 47106] [client 127.0.0.1:57735] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 13:52:41.342406 2022] [authz_core:error] [pid 47099] [client 127.0.0.1:57739] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 13:52:42.417062 2022] [authz_core:error] [pid 47099] [client 127.0.0.1:57739] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 13:53:18.133615 2022] [authz_core:error] [pid 47106] [client ::1:57746] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 13:53:53.899909 2022] [authz_core:error] [pid 47269] [client ::1:57750] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 13:53:54.811507 2022] [authz_core:error] [pid 47269] [client ::1:57750] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 14:07:57.644356 2022] [mpm_prefork:notice] [pid 47058] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Library/WebServer/awstats/awstats.pl?config=www.joelspetadoption.com] does not exist
+[Sat Apr 16 14:08:02.517687 2022] [mpm_prefork:notice] [pid 47572] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 14:08:02.517969 2022] [core:notice] [pid 47572] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 14:08:05.210509 2022] [authz_core:error] [pid 47582] [client 127.0.0.1:57844] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:08:06.761301 2022] [authz_core:error] [pid 47582] [client 127.0.0.1:57844] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:11:11.144485 2022] [authz_core:error] [pid 47586] [client ::1:57860] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 14:11:15.885762 2022] [authz_core:error] [pid 47586] [client ::1:57860] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 14:11:29.994788 2022] [authz_core:error] [pid 47585] [client ::1:57861] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 14:11:31.403116 2022] [authz_core:error] [pid 47585] [client ::1:57861] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 14:16:56.701033 2022] [authz_core:error] [pid 47580] [client ::1:57870] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 14:16:57.557311 2022] [authz_core:error] [pid 47580] [client ::1:57870] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 14:18:40.098383 2022] [authz_core:error] [pid 47584] [client ::1:57888] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 14:18:41.503632 2022] [authz_core:error] [pid 47584] [client ::1:57888] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 14:23:51.033508 2022] [authz_core:error] [pid 47580] [client 127.0.0.1:57933] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:23:52.018568 2022] [authz_core:error] [pid 47580] [client 127.0.0.1:57933] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:24:45.065962 2022] [authz_core:error] [pid 47584] [client 127.0.0.1:57937] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:24:45.898933 2022] [authz_core:error] [pid 47584] [client 127.0.0.1:57937] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:40:35.338303 2022] [mpm_prefork:notice] [pid 47572] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/Library/WebServer/awstats/awstats.pl?config=www.joelspetadoption.com] does not exist
+[Sat Apr 16 14:40:36.483292 2022] [mpm_prefork:notice] [pid 48035] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 14:40:36.483423 2022] [core:notice] [pid 48035] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 14:40:39.800438 2022] [authz_core:error] [pid 48040] [client 127.0.0.1:58005] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:40:40.851907 2022] [authz_core:error] [pid 48040] [client 127.0.0.1:58005] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:40:48.405282 2022] [authz_core:error] [pid 48043] [client 127.0.0.1:58006] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:41:14.277517 2022] [authz_core:error] [pid 48040] [client 127.0.0.1:58011] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:41:15.168492 2022] [authz_core:error] [pid 48040] [client 127.0.0.1:58011] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:43:46.901701 2022] [authz_core:error] [pid 48043] [client 127.0.0.1:58042] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:43:48.090210 2022] [authz_core:error] [pid 48043] [client 127.0.0.1:58042] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:44:15.029885 2022] [authz_core:error] [pid 48048] [client 127.0.0.1:58044] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:44:15.566076 2022] [authz_core:error] [pid 48048] [client 127.0.0.1:58044] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:44:21.520546 2022] [authz_core:error] [pid 48040] [client 127.0.0.1:58045] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:44:55.552066 2022] [authz_core:error] [pid 48048] [client 127.0.0.1:58050] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:44:56.935227 2022] [authz_core:error] [pid 48048] [client 127.0.0.1:58050] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://joelspetadoption.com/stats
+[Sat Apr 16 14:46:03.434998 2022] [authz_core:error] [pid 48044] [client ::1:58055] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 14:46:04.839351 2022] [authz_core:error] [pid 48044] [client ::1:58055] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 14:46:16.165619 2022] [authz_core:error] [pid 48048] [client ::1:58056] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 14:46:16.376405 2022] [authz_core:error] [pid 48048] [client ::1:58056] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Sat Apr 16 14:46:18.532004 2022] [authz_core:error] [pid 48048] [client ::1:58056] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 14:46:18.732752 2022] [authz_core:error] [pid 48048] [client ::1:58056] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Sat Apr 16 14:50:58.855325 2022] [authz_core:error] [pid 48043] [client 127.0.0.1:58078] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 14:50:59.510940 2022] [authz_core:error] [pid 48043] [client 127.0.0.1:58078] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/
+[Sat Apr 16 14:51:17.296573 2022] [authz_core:error] [pid 48045] [client 127.0.0.1:58079] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:51:18.421927 2022] [authz_core:error] [pid 48045] [client 127.0.0.1:58079] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/stats
+[Sat Apr 16 14:55:35.045612 2022] [authz_core:error] [pid 48048] [client 127.0.0.1:58127] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:55:35.485079 2022] [authz_core:error] [pid 48048] [client 127.0.0.1:58127] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/stats
+[Sat Apr 16 14:56:04.567694 2022] [authz_core:error] [pid 48238] [client ::1:58132] AH01630: client denied by server configuration: /usr/local/awstats
+[Sat Apr 16 14:56:06.106065 2022] [authz_core:error] [pid 48238] [client ::1:58132] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/awstats/awstats.pl?config=www.joelspetadoption.com
+[Sat Apr 16 14:56:09.762638 2022] [authz_core:error] [pid 48040] [client 127.0.0.1:58134] AH01630: client denied by server configuration: /Library/WebServer/Documents/stats
+[Sat Apr 16 14:56:11.013221 2022] [authz_core:error] [pid 48040] [client 127.0.0.1:58134] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/stats
+[Sat Apr 16 14:56:55.729687 2022] [mpm_prefork:notice] [pid 48035] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 14:56:57.148767 2022] [mpm_prefork:notice] [pid 48309] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 14:56:57.148885 2022] [core:notice] [pid 48309] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:04:27.479554 2022] [mpm_prefork:notice] [pid 48309] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:04:30.390359 2022] [mpm_prefork:notice] [pid 48502] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:04:30.390936 2022] [core:notice] [pid 48502] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:05:38.936769 2022] [mpm_prefork:notice] [pid 48502] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:05:39.499603 2022] [mpm_prefork:notice] [pid 48573] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:05:39.499709 2022] [core:notice] [pid 48573] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:08:15.376464 2022] [mpm_prefork:notice] [pid 48573] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:08:16.200255 2022] [mpm_prefork:notice] [pid 48648] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:08:16.200356 2022] [core:notice] [pid 48648] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:13:43.854688 2022] [mpm_prefork:notice] [pid 48648] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:13:44.627877 2022] [mpm_prefork:notice] [pid 48728] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:13:44.628063 2022] [core:notice] [pid 48728] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:21:39.674164 2022] [mpm_prefork:notice] [pid 48728] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:21:40.505641 2022] [mpm_prefork:notice] [pid 48829] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:21:40.505898 2022] [core:notice] [pid 48829] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:23:26.826696 2022] [mpm_prefork:notice] [pid 48829] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:23:27.963572 2022] [mpm_prefork:notice] [pid 48887] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:23:27.963822 2022] [core:notice] [pid 48887] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:25:56.889712 2022] [mpm_prefork:notice] [pid 48887] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:25:57.610835 2022] [mpm_prefork:notice] [pid 48945] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:25:57.611024 2022] [core:notice] [pid 48945] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:32:15.035933 2022] [mpm_prefork:notice] [pid 48945] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:32:16.492342 2022] [mpm_prefork:notice] [pid 49030] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:32:16.492514 2022] [core:notice] [pid 49030] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:34:53.619949 2022] [mpm_prefork:notice] [pid 49030] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:34:54.373524 2022] [mpm_prefork:notice] [pid 49085] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:34:54.373689 2022] [core:notice] [pid 49085] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:36:01.729301 2022] [mpm_prefork:notice] [pid 49085] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:36:02.509580 2022] [mpm_prefork:notice] [pid 49132] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:36:02.509741 2022] [core:notice] [pid 49132] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:45:42.359224 2022] [mpm_prefork:notice] [pid 49132] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:45:43.123651 2022] [mpm_prefork:notice] [pid 49331] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:45:43.123881 2022] [core:notice] [pid 49331] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:49:04.400760 2022] [mpm_prefork:notice] [pid 49331] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:49:05.310600 2022] [mpm_prefork:notice] [pid 49388] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:49:05.310765 2022] [core:notice] [pid 49388] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:49:32.624343 2022] [mpm_prefork:notice] [pid 49388] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:49:33.250939 2022] [mpm_prefork:notice] [pid 49424] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:49:33.251074 2022] [core:notice] [pid 49424] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:51:00.117946 2022] [mpm_prefork:notice] [pid 49424] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:51:00.852369 2022] [mpm_prefork:notice] [pid 49476] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:51:00.852662 2022] [core:notice] [pid 49476] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:51:34.386878 2022] [mpm_prefork:notice] [pid 49476] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:51:35.036536 2022] [mpm_prefork:notice] [pid 49519] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:51:35.036709 2022] [core:notice] [pid 49519] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:53:00.350227 2022] [mpm_prefork:notice] [pid 49519] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:53:01.067253 2022] [mpm_prefork:notice] [pid 49583] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:53:01.067472 2022] [core:notice] [pid 49583] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 15:54:48.499086 2022] [mpm_prefork:notice] [pid 49583] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 15:54:49.275292 2022] [mpm_prefork:notice] [pid 49631] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 15:54:49.275463 2022] [core:notice] [pid 49631] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:02:54.163666 2022] [mpm_prefork:notice] [pid 49631] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:02:55.670976 2022] [mpm_prefork:notice] [pid 49787] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:02:55.671150 2022] [core:notice] [pid 49787] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:08:23.241650 2022] [mpm_prefork:notice] [pid 49787] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:08:23.984541 2022] [mpm_prefork:notice] [pid 49874] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:08:23.984725 2022] [core:notice] [pid 49874] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:14:55.143066 2022] [mpm_prefork:notice] [pid 49874] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:14:55.972403 2022] [mpm_prefork:notice] [pid 50054] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:14:55.972617 2022] [core:notice] [pid 50054] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:15:45.399794 2022] [mpm_prefork:notice] [pid 50054] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:15:46.051022 2022] [mpm_prefork:notice] [pid 50097] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:15:46.051172 2022] [core:notice] [pid 50097] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:18:45.666107 2022] [mpm_prefork:notice] [pid 50097] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:18:46.458188 2022] [mpm_prefork:notice] [pid 50164] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:18:46.458424 2022] [core:notice] [pid 50164] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:19:05.264606 2022] [php7:notice] [pid 50178] [client 127.0.0.1:59027] PHP Notice:  Undefined variable: pet in /Library/WebServer/Documents/home/adopt/index.php on line 64, referer: https://joelspetadoption.com/
+[Sat Apr 16 16:19:05.304038 2022] [php7:notice] [pid 50178] [client 127.0.0.1:59027] PHP Notice:  Undefined variable: why in /Library/WebServer/Documents/home/adopt/index.php on line 66, referer: https://joelspetadoption.com/
+[Sat Apr 16 16:22:08.654465 2022] [mpm_prefork:notice] [pid 50164] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:22:09.842828 2022] [mpm_prefork:notice] [pid 50229] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:22:09.842986 2022] [core:notice] [pid 50229] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:22:17.205977 2022] [core:error] [pid 50234] (13)Permission denied: [client 127.0.0.1:59057] AH00132: file permissions deny server access: /Library/WebServer/Documents/records/favicon.ico, referer: https://staff.joelspetadoption.com/
+[Sat Apr 16 16:22:28.627793 2022] [core:error] [pid 50239] (13)Permission denied: [client 127.0.0.1:59060] AH00132: file permissions deny server access: /Library/WebServer/Documents/home/favicon.ico, referer: https://joelspetadoption.com/
+[Sat Apr 16 16:22:35.647711 2022] [php7:notice] [pid 50240] [client 127.0.0.1:59059] PHP Notice:  Undefined variable: pet in /Library/WebServer/Documents/home/adopt/index.php on line 64
+[Sat Apr 16 16:22:35.648401 2022] [php7:notice] [pid 50240] [client 127.0.0.1:59059] PHP Notice:  Undefined variable: why in /Library/WebServer/Documents/home/adopt/index.php on line 66
+[Sat Apr 16 16:22:35.918670 2022] [core:error] [pid 50240] (13)Permission denied: [client 127.0.0.1:59059] AH00132: file permissions deny server access: /Library/WebServer/Documents/home/favicon.ico, referer: https://joelspetadoption.com/adopt/
+[Sat Apr 16 16:23:39.626164 2022] [mpm_prefork:notice] [pid 50229] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:23:40.313535 2022] [mpm_prefork:notice] [pid 50253] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:23:40.313673 2022] [core:notice] [pid 50253] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:24:34.543608 2022] [php7:notice] [pid 50263] [client 127.0.0.1:59068] PHP Notice:  Undefined variable: pet in /Library/WebServer/Documents/home/adopt/index.php on line 64
+[Sat Apr 16 16:24:34.544818 2022] [php7:notice] [pid 50263] [client 127.0.0.1:59068] PHP Notice:  Undefined variable: why in /Library/WebServer/Documents/home/adopt/index.php on line 66
+[Sat Apr 16 16:24:40.427861 2022] [authz_core:error] [pid 50258] [client 127.0.0.1:59070] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 16:24:42.054371 2022] [authz_core:error] [pid 50258] [client 127.0.0.1:59070] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.staff.joelspetadoption.com/
+[Sat Apr 16 16:26:41.400862 2022] [mpm_prefork:notice] [pid 50253] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:26:42.743514 2022] [mpm_prefork:notice] [pid 50313] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:26:42.743729 2022] [core:notice] [pid 50313] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 16:27:08.178058 2022] [authz_core:error] [pid 50324] [client 127.0.0.1:59082] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 16:27:09.725153 2022] [authz_core:error] [pid 50324] [client 127.0.0.1:59082] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.joelspetadoption.com/
+[Sat Apr 16 16:27:28.952413 2022] [mpm_prefork:notice] [pid 50313] AH00169: caught SIGTERM, shutting down
+[Sat Apr 16 16:27:29.625378 2022] [mpm_prefork:notice] [pid 50344] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Sat Apr 16 16:27:29.625560 2022] [core:notice] [pid 50344] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 16 18:25:33.079762 2022] [authz_core:error] [pid 50353] [client ::1:59404] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Sat Apr 16 18:25:34.043051 2022] [authz_core:error] [pid 50353] [client ::1:59404] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://localhost/
+[Mon Apr 18 19:51:33.809708 2022] [php7:notice] [pid 50349] [client 127.0.0.1:62145] PHP Notice:  Undefined variable: pet in /Library/WebServer/Documents/home/adopt/index.php on line 64, referer: https://joelspetadoption.com/
+[Mon Apr 18 19:51:33.811197 2022] [php7:notice] [pid 50349] [client 127.0.0.1:62145] PHP Notice:  Undefined variable: why in /Library/WebServer/Documents/home/adopt/index.php on line 66, referer: https://joelspetadoption.com/
+[Mon Apr 18 21:01:55.905585 2022] [mpm_prefork:notice] [pid 50344] AH00169: caught SIGTERM, shutting down
+[Mon Apr 18 21:02:02.255994 2022] [mpm_prefork:notice] [pid 56095] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Mon Apr 18 21:02:02.256653 2022] [core:notice] [pid 56095] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Apr 18 21:02:12.501455 2022] [authz_groupfile:error] [pid 56117] [client 127.0.0.1:62459] AH01664: No group file was specified in the configuration
+[Mon Apr 18 21:02:12.543262 2022] [authz_core:error] [pid 56117] [client 127.0.0.1:62459] AH01631: user webmaster: authorization failure for "/awstats/awstats.pl": 
+[Mon Apr 18 21:02:17.087520 2022] [authz_groupfile:error] [pid 56117] [client 127.0.0.1:62459] AH01664: No group file was specified in the configuration
+[Mon Apr 18 21:02:17.087804 2022] [authz_core:error] [pid 56117] [client 127.0.0.1:62459] AH01631: user staff: authorization failure for "/awstats/awstats.pl": 
+[Mon Apr 18 21:02:21.520878 2022] [authz_groupfile:error] [pid 56117] [client 127.0.0.1:62459] AH01664: No group file was specified in the configuration
+[Mon Apr 18 21:02:21.521296 2022] [authz_core:error] [pid 56117] [client 127.0.0.1:62459] AH01631: user webmaster: authorization failure for "/awstats/awstats.pl": 
+[Mon Apr 18 21:02:24.860247 2022] [authz_groupfile:error] [pid 56117] [client 127.0.0.1:62459] AH01664: No group file was specified in the configuration
+[Mon Apr 18 21:02:24.861057 2022] [authz_core:error] [pid 56117] [client 127.0.0.1:62459] AH01631: user joel: authorization failure for "/awstats/awstats.pl": 
+[Tue Apr 19 13:02:14.874581 2022] [authz_groupfile:error] [pid 56117] [client ::1:64598] AH01664: No group file was specified in the configuration
+[Tue Apr 19 13:02:14.916018 2022] [authz_core:error] [pid 56117] [client ::1:64598] AH01631: user staff: authorization failure for "/awstats/awstats.pl": 
+[Tue Apr 19 13:02:25.774226 2022] [mpm_prefork:notice] [pid 56095] AH00169: caught SIGTERM, shutting down
+[Tue Apr 19 13:02:29.006410 2022] [mpm_prefork:notice] [pid 59187] AH00163: Apache/2.4.46 (Unix) LibreSSL/2.8.3 PHP/7.3.24-(to be removed in future macOS) mod_perl/2.0.9 Perl/v5.30.2 configured -- resuming normal operations
+[Tue Apr 19 13:02:29.006806 2022] [core:notice] [pid 59187] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 19 14:29:40.095058 2022] [php7:notice] [pid 59218] [client 127.0.0.1:65024] PHP Notice:  Undefined variable: pet in /Library/WebServer/Documents/home/adopt/index.php on line 64
+[Tue Apr 19 14:29:40.097101 2022] [php7:notice] [pid 59218] [client 127.0.0.1:65024] PHP Notice:  Undefined variable: why in /Library/WebServer/Documents/home/adopt/index.php on line 66
+[Tue Apr 19 14:30:17.198127 2022] [php7:notice] [pid 59202] [client 127.0.0.1:65028] PHP Notice:  Undefined variable: pet in /Library/WebServer/Documents/home/adopt/index.php on line 64, referer: https://joelspetadoption.com/
+[Tue Apr 19 14:30:17.200914 2022] [php7:notice] [pid 59202] [client 127.0.0.1:65028] PHP Notice:  Undefined variable: why in /Library/WebServer/Documents/home/adopt/index.php on line 66, referer: https://joelspetadoption.com/
+[Tue Apr 19 14:33:51.107311 2022] [authz_core:error] [pid 59218] [client 127.0.0.1:65072] AH01630: client denied by server configuration: /Library/WebServer/Documents/
+[Tue Apr 19 14:33:54.016823 2022] [authz_core:error] [pid 59218] [client 127.0.0.1:65072] AH01630: client denied by server configuration: /Library/WebServer/Documents/favicon.ico, referer: http://www.staff.joelspetadoption.com/
+[Tue Apr 19 14:34:32.810664 2022] [auth_basic:error] [pid 59208] [client 127.0.0.1:65087] AH01618: user log not found: /
